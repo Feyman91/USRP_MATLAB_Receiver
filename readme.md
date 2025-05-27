@@ -1,6 +1,6 @@
-# FDRAN Hardware Prototype - USRP RX
+# USRP收发机原型系统
 
-本项目是基于USRP硬件+MATLAB的硬件原型系统，主要用于上行链路的接收和信号处理。
+这是一个基于MATLAB+USRP的通信原型系统，实现了用户设备(UE)的上行数据发送功能。注意：此版本仅支持接收信号处理功能，发送功能请参考项目USRP_TX。
 
 ## 项目概述
 
