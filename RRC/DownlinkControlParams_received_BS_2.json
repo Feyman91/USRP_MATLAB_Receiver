@@ -1,0 +1,32 @@
+{
+  "CBS_ID": 1,
+  "Downlink_TrParams": {
+    "DL_BS_2": {
+      "Common": {
+        "FFTLength": 1024,
+        "CPFraction": 0.25,
+        "Subcarrierspacing": 30000,
+        "total_RB": 67,
+        "online_DL_BSIDs": [
+          1,
+          2
+        ]
+      },
+      "UE_ID_1": {
+        "BS_ID": 2,
+        "dataSubcNum": 347,
+        "dataSubc_start_index": 568,
+        "dataSubc_end_index": 914,
+        "dataSubc_center_offset": 229,
+        "guard_interval": 110,
+        "BWPoffset": 0,
+        "PilotSubcarrierSpacing": 36,
+        "channelBW": 13710000.0,
+        "signalBW": 17010000.0,
+        "modOrder": 16,
+        "coderate": "3/4",
+        "numSymPerFrame": 10
+      }
+    }
+  }
+}

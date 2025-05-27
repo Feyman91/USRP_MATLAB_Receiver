@@ -1,0 +1,1 @@
+[@UE_ID 1] Connected with [@CBS_ID 1]
